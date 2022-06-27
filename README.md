@@ -7,7 +7,7 @@ To set up this project you need to create a .env file containing APP_PORT and AC
 
 A few features are still pending that I am going to implement soon.
 
-[] Add Torrent Search 
+[.] Add Torrent Search 
 
 
-[] Add Login Menu 
+[.] Add Login Menu 
